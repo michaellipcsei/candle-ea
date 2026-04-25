@@ -1,2 +1,0 @@
-# candle-ea
-candle ea
